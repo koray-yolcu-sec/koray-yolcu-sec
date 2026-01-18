@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Koray
 
-<!--
-**koray-yolcu-sec/koray-yolcu-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student with a strong focus on **Linux & Cloud Security**.
 
-Here are some ideas to get you started:
+I build hands-on security labs to understand how systems are hardened, attacked, and defended in real-world scenarios.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔐 Security Focus Areas
+- Linux server hardening
+- SSH security & key-based authentication
+- Firewall & network access control
+- Brute-force attack detection & prevention
+- Log analysis & incident investigation
+
+---
+
+## 🧪 Hands-on Security Labs
+📌 **Cloud Security Labs**  
+👉 https://github.com/koray-yolcu-sec/cloud-security-labs
+
+Completed labs include:
+- Linux user & permission management
+- SSH hardening & secure access control
+- Firewall configuration (iptables, default-deny)
+- Brute-force defense with Fail2Ban
+- SSH log analysis & attack detection
+
+---
+
+## 🎯 Career Goal
+Seeking **Security / Cloud / SOC Intern** roles where I can apply defensive security skills and continue learning in real environments.
+
+---
+
+📫 **Contact**
+- LinkedIn: https://www.linkedin.com/in/koray-yolcu-0467922b0/
