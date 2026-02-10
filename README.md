@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Koray
 
-I'm a Software Engineering student with a strong focus on **Linux & Cloud Security**.
+I'm a Software Engineering student with a strong focus on **Linux, Cloud & Security Engineering**.
 
-I build hands-on security labs to understand how systems are hardened, attacked, and defended in real-world scenarios.
+I build **hands-on security tools and labs** to understand how systems are hardened, misconfigured, attacked, and defended in real-world scenarios.
 
 ---
 
@@ -12,6 +12,7 @@ I build hands-on security labs to understand how systems are hardened, attacked,
 - Firewall & network access control
 - Brute-force attack detection & prevention
 - Log analysis & incident investigation
+- Cloud security misconfiguration analysis (AWS)
 
 ---
 
@@ -28,8 +29,34 @@ Completed labs include:
 
 ---
 
+## 🛠️ Security Tools & Projects
+
+🔹 **AWS Security Scout**  
+Terminal-based **AWS Cloud Security Scanner (CSPM)** that detects common misconfigurations and security risks across AWS services.
+
+👉 https://github.com/koray-yolcu-sec/aws-security-scout  
+
+Focus areas:
+- IAM, S3, EC2, CloudTrail, KMS, Secrets Manager
+- Risk scoring & prioritized findings
+- DevSecOps & audit-friendly design
+
+---
+
+🔹 **Web-Scan**  
+A **passive web security scanning tool** that operates within legal and ethical boundaries.
+
+👉 https://github.com/koray-yolcu-sec/web-scan  
+
+Focus areas:
+- OWASP-aligned passive checks
+- Web security headers & misconfigurations
+- CLI-based, lightweight security analysis
+
+---
+
 ## 🎯 Career Goal
-Seeking **Security / Cloud / SOC Intern** roles where I can apply defensive security skills and continue learning in real environments.
+Seeking **Security / Cloud / SOC Intern** roles where I can apply defensive security skills, work with real systems, and continue learning in production-like environments.
 
 ---
 
