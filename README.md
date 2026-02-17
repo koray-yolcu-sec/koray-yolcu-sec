@@ -43,6 +43,20 @@ Focus areas:
 
 ---
 
+
+🔹 **AltaySec Cloud Security Scanner**  
+A **read-only AWS cloud security scanner** that identifies misconfigurations and security risks.
+
+👉 https://github.com/koray-yolcu-sec/altay_cloud_scanner
+
+Focus areas:
+- Executive summary
+- Risk scoring
+- Multi-region support
+- JSON / Terminal reporting
+
+---
+
 🔹 **Web-Scan**  
 A **passive web security scanning tool** that operates within legal and ethical boundaries.
 
@@ -54,6 +68,7 @@ Focus areas:
 - CLI-based, lightweight security analysis
 
 ---
+
 
 ## 🎯 Career Goal
 Seeking **Security / Cloud / SOC Intern** roles where I can apply defensive security skills, work with real systems, and continue learning in production-like environments.
